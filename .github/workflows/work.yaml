@@ -13,7 +13,7 @@ on:
 
 env:
     TZ: Asia/Shanghai
-    USERS: ${{secrets.USERS}}
+    USERS: ${{secrets.https://ikuuu.co/user##----O----3382573829;}}
     PUSH_KEY: ${{secrets.PUSH_KEY}}
     PUSH_TURBO_KEY: ${{secrets.PUSH_TURBO_KEY}}
     QMSG_KEY: ${{secrets.QMSG_KEY}}
